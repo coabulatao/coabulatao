@@ -1,4 +1,4 @@
-<h1 align="center">Hi World, I'm Owen</h1>
+<h1 align="center">Hello World, I'm Owen</h1>
 <h3 align="center">An aspiring Software Engineer from Philippines</h3>
 
 - 🌱 I’m currently learning **Javascript, HTML, CSS, and React**
